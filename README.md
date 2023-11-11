@@ -9,5 +9,5 @@ __Optimization Techniques__
 * Proxy Optimization
 
 
-# Credits
+## Credits
 1 - Original Copyright 2022, Ed Keenan, all rights reserved.
